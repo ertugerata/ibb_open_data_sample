@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ertugerata/ibb_open_data_sample/master)
+
 # Python ile İBB Açık Veri Portalı’ndaki verileri görselleştirme 
 Arda Batuhan Demir'in medium'da bulunan yazısına ait notebook.
 
